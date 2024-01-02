@@ -6,8 +6,8 @@ We do websites, eCommerce, and digital marketing to optimize your business’ gr
 
 ## 🤝 Our Latest Projects
 
-[Masalalu.id](https://www.masalalu.id/) , The [Case Study](https://www.sab.id/masalalu/)
-[myfab.id](https://www.myfab.id/) ,The [Case Study](https://www.sab.id/myfab/)
+- [Masalalu.id](https://www.masalalu.id/) , The [Case Study](https://www.sab.id/masalalu/)
+- [myfab.id](https://www.myfab.id/) ,The [Case Study](https://www.sab.id/myfab/)
 
 
 
